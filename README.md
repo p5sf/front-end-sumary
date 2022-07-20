@@ -1,5 +1,7 @@
 前端开发面试问题及答案整理 本文旨在加深对前端知识点的理解，资料来源于网络，由本人收集整理。
 
+
+
 <!-- more -->
 
 
@@ -7,11 +9,23 @@
 ## 面试博客和网站
 
 - 中高级前端大厂面试秘籍：https://juejin.im/post/5c64d15d6fb9a049d37f9c20
+
 - 前端面试查漏补缺：https://juejin.im/post/5c6bab91f265da2dd94c9f9e
+
 - 前端专题学习: https://github.com/mqyqingfeng/Blog
+
 - 前端面试题库：https://fe.ecool.fun/
 
+- 前端开发面试题大收集：https://github.com/paddingme/Front-end-Web-Development-Interview-Question
 
+  
+
+
+
+## 学习专区
+
+- [Vue 中文社区](https://vue-js.com/learn-vue/)
+- 
 
 
 
@@ -77,7 +91,15 @@ vue
 
 - 跨域的解决办法
 
-  
+
+
+
+## 系类专题
+
+- [JavaScript深入之从原型到原型链](https://github.com/mqyqingfeng/Blog/issues/2)
+- [如何定义一个好的变量名](https://www.hoohack.me/2016/07/25/how-to-define-great-variable-name)
+- [软件开发 - 常见文档- 英文](https://www.yuque.com/markyun/doc/zhc1kv)
+- 
 
 
 
