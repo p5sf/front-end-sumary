@@ -97,9 +97,25 @@ vue
 ## 系类专题
 
 - [JavaScript深入之从原型到原型链](https://github.com/mqyqingfeng/Blog/issues/2)
-- [如何定义一个好的变量名](https://www.hoohack.me/2016/07/25/how-to-define-great-variable-name)
+- [深入了解js中的instanceof 和 typeof关键字](https://blog.csdn.net/qq_41903105/article/details/88372010?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-0-88372010-blog-50353881.pc_relevant_aa&spm=1001.2101.3001.4242.1&utm_relevant_index=2)
+- [js中的instanceof用法](https://blog.csdn.net/lzDevastator/article/details/104701981?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-104701981-blog-88372010.pc_relevant_multi_platform_whitelistv2_ad_hc&spm=1001.2101.3001.4242.2&utm_relevant_index=3)
+- [JavaScript 的 typeof 的用途](https://justjavac.com/javascript/2012/12/23/what-is-javascripts-typeof-operator-used-for.html)
+- [浅谈 instanceof 和 typeof 的实现原理](https://juejin.cn/post/6844903613584654344)
 - [软件开发 - 常见文档- 英文](https://www.yuque.com/markyun/doc/zhc1kv)
-- 
+
+#### 事件循环机制
+
+- [彻底理解同步、异步、事件循环](https://segmentfault.com/a/1190000004322358)
+- [十分钟搞懂事件循环、宏任务、微任务](https://segmentfault.com/a/1190000040014996)
+
+
+
+开发规范
+
+- [JavaScript 代码规范](https://standardjs.com/rules-zhcn)
+- [JavaScript编程风格 - 阮一峰](http://www.ruanyifeng.com/blog/2012/04/javascript_programming_style.html)
+- [JavaScript 代码优化](https://github.com/ryanmcdermott/clean-code-javascript)
+- [如何定义一个好的变量名](https://www.hoohack.me/2016/07/25/how-to-define-great-variable-name)
 
 
 
